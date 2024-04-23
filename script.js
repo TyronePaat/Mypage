@@ -1,5 +1,5 @@
  
-      var text = "Leonardus Morizio Paat";
+      var text = "Website ini dibuat untuk [TUGAS] Project.01-HTML";
       var speed = 100; // milliseconds per character
 
       function typeWriter() {
